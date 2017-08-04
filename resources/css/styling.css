@@ -43,5 +43,8 @@ p {
 	font-size: 18px;
 	color: white;
 }
+.footer nav {
+	display: inline;
+}
 
 
